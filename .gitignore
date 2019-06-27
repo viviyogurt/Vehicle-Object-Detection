@@ -6,3 +6,6 @@ car_detection
 CarND-Vehicle-Detection
 VC数字图像处理典型案例详解-光盘
 .git
+*.DS_Store
+darknet.zip
+darknet
